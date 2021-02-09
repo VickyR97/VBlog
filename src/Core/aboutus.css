@@ -1,0 +1,22 @@
+
+.container-fluid1{
+    height: 400px;
+    background-image: url("../Images/aboutus111.jpg");
+    text-align: center;
+}
+
+.container1{
+    border: 2px solid lightgrey;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.headP{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.about{
+    position: relative;
+    top: 100px;
+}

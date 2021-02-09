@@ -1,0 +1,35 @@
+.blogview{
+    display: flex;
+    position: relative;
+    top: 10px;
+}
+
+.content{
+    width: 940px;
+    margin-right: 10px;
+    border-radius: 6px;
+}
+
+.addblog{
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 320px;
+    height: 300px;
+    text-align: center;
+    background-color: white;
+}
+
+.addPost{
+    color: white;
+    background-color: rgb(5, 7, 109);
+    border-radius: 25px;
+    padding: 10px 60px;
+    margin-bottom: 20px;
+
+}
+
+.bg{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+}

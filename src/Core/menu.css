@@ -1,0 +1,60 @@
+nav{
+    background-color: rgb(5, 7, 109);
+    height: 81px;
+    width: 100%;
+  } 
+
+label.logo{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 80px;
+    padding-left: 40px;
+    margin: 0;
+}
+
+nav ul{
+    float: right;
+    padding-right: 30px;
+    margin: 0;
+    display: flex;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+}
+
+nav ul li a{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top : 31px;
+    padding-bottom: 31px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+a:hover{
+    background-color: white;
+    color: #092B50;
+    text-decoration: none;
+    
+}   
+
+
+
+.drop-actions{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+       
+}
+
+
+
+.user{
+    position: relative;
+    top: 22px;
+    margin-left: 20px;
+}   

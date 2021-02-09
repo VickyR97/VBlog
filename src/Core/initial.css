@@ -1,0 +1,41 @@
+
+
+.first-row{
+    height: 500px;
+    background-image: url("../Images/bgblog3.jpg");
+    text-align: center;
+}
+
+.headP{
+    
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.first-row-inner{
+    position: relative;
+    top: 100px;
+}
+
+.getStarted-btn{
+    color: white;
+    background-color: rgb(5, 7, 109);
+    border-radius: 25px;
+    padding: 15px 50px;
+    margin-top: 40px;
+    font-weight: 500;
+}
+
+.second-row{
+    display: flex;
+    padding-top: 35px;
+}
+
+.x{
+    text-align: center;
+    margin: 25px;
+    padding: 15px;
+   justify-self: center;
+   border: 1.5px solid grey;
+    border-radius: 10px;
+}
